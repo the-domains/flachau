@@ -1,0 +1,14 @@
+layout_spectrum: 0.1234043
+typography_spectrum: 0.5978723
+color:
+  saturation: 0.8765957
+  lightness: 0.4271435
+  brandStrength: 0.9914894
+  brandColors:
+    - '#060503'
+    - '#4C4C4A'
+    - '#999B92'
+    - '#FFFFFC'
+    - '#A45A39'
+  rhythmicContrast: 0.1370559
+name: Flachau
