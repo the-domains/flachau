@@ -1,14 +1,7 @@
-color:
-  saturation: 0.8765957
-  brandStrength: 0.9914894
-  rhythmicContrast: 0.1370559
-  brandColors:
-    - '#060503'
-    - '#4C4C4A'
-    - '#999B92'
-    - '#FFFFFC'
-    - '#A45A39'
-  lightness: 0.4271435
+name: Flachau
+favicon: null
+layout_spectrum: 0.1234043
+typography_spectrum: 0.5978723
 collections:
   - index:
       path: /
@@ -21,6 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.1234043
-typography_spectrum: 0.5978723
-name: Flachau
+title: 'Flachau Atmospheric Photography '
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#060503'
+    - '#4C4C4A'
+    - '#999B92'
+    - '#FFFFFC'
+    - '#A45A39'
+  brandStrength: 0.9914894
+  lightness: 0.4271435
+  saturation: 0.8765957
+  rhythmicContrast: 0.1370559
+purpose: []
